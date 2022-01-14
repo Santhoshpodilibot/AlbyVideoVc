@@ -19,7 +19,7 @@ buttons = [
     [
         InlineKeyboardButton('⚡️Developer', url='https://t.me/santhu_music_bot'),
         InlineKeyboardButton('🧩Owner', url='https://t.me/santhu_music_bot'),
-        InlineKeyboardButton('➕★ɴᴀɴᴜ ᴀᴅᴅ ᴄʜᴇꜱᴜᴋᴏ➕', url='https://t.me/{BOT_USERNAME}?startgroup=true'), 
+        InlineKeyboardButton('➕Add to your group➕', url='https://t.me/{BOT_USERNAME}?startgroup=true'), 
     ]
     ]   
     ]
